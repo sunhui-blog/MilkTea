@@ -1,13 +1,18 @@
 # MilkTea
 🥤信息采集、集成一体化共享平台
 
+日常奶茶爱好者，奶茶的口味繁多，每种搭配味道各有特色，不具可比性。思来想去不如做个集锦。随着口味变化，对应输出。
 
+#草莓桃子🍑酪酪#
+<ol>
+  <li>docker</li>
+  <li>serverless</li>
+  <li>jenkins</li>
+</ol>
 
-编程范式：
-冒号课堂：https://www.cnblogs.com/xyz98/category/180083.html?page=2
-
-
-电子书PDF:
-编程之美:
-https://github.com/lunnersword/algorithm/blob/master/%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BE%8E%E2%80%94%E2%80%94%E5%BE%AE%E8%BD%AF%E6%8A%80%E6%9C%AF%E9%9D%A2%E8%AF%95%E5%BF%83%E5%BE%97.pdf
-
+#燕麦奶杨枝干露#
+<ol>
+  <li>Java</li>
+  <li>Javascript</li>
+  <li>Typescript</li>
+</ol>
